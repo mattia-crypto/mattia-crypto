@@ -1,3 +1,1 @@
 ## Welcome!
-
-I am in the *Blockchain Security DevOps Engineering* team... 
